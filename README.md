@@ -26,3 +26,6 @@ I love Web-Development the most. Currently I am working on a website which lets 
 - 👬 I really need a partner who can develop websites wih me
 - 💹 I want some partners for my websites so they can advertise my website in their server/youtube channel/other social media platforms.
 - 💰 You can hire me for web development. Just DM me on Discord! (Not for Free)
+
+### 💹 My GitHub Stats
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerAyush7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
