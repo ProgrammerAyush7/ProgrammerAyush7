@@ -7,6 +7,7 @@ Myself Programmer Ayush, A self-learning Programmer.
 - 👯 I’m looking to collaborate with some professional web developers
 - 🤔 I’m looking for help with python flask
 - 💬 Ask me about discord.py
+- 🔙 I'm a Backend Developer
 - 📫 How to reach me: 
     - Discord: Programmer Ayush#8395
     - Youtube: Ayush's Magical World Of Science
