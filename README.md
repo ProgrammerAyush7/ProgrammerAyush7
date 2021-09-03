@@ -5,6 +5,7 @@
 I usually focus on backend development and I love web development alot. I am a solo developer and I like to be. Um... I think this much introduction would be enough, Let's start the readme journey!
 
 </div>
+
 - 🔭 I’m currently working on [Smool](https://smool.cf/)
 - 🌱 I’m currently learning advanced web development
 - 👯 I’m looking to collaborate with some professional web developers
