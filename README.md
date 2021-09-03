@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="center">
 
-Myself Programmer Ayush, A self-learning Programmer.
+# Hi there, I am [Programmer Ayush](https://github.com/ProgrammerAyush7/)
 
+I usually focus on backend development and I love web development alot. I am a solo developer and I like to be. Um... I think this much introduction would be enough, Let's start the readme journey!
+
+</div>
 - 🔭 I’m currently working on [Smool](https://smool.cf/)
 - 🌱 I’m currently learning advanced web development
 - 👯 I’m looking to collaborate with some professional web developers
@@ -27,5 +30,8 @@ I love Web-Development the most. Currently I am working on a website which lets 
 - 💹 I want some partners for my websites so they can advertise my website in their server/youtube channel/other social media platforms.
 - 💰 You can hire me for web development. Just DM me on Discord! (Not for Free)
 
-### 💹 My GitHub Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerAyush7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammerAyush7&show_icons=true&theme=dark)](https://github.com/anuraghazra/ProgrammerAyush7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerAyush7&show_icons=true&theme=dark)](https://github.com/ProgrammerAyush7)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerAyush7&repo=URL-Shortener-Example&theme=dark)](https://github.com/ProgrammerAyush7/url-shortener-example)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerAyush7&repo=AdvancedCalc&theme=dark)](https://github.com/ProgrammerAyush7/advancedcalc)
